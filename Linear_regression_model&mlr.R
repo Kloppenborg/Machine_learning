@@ -80,7 +80,7 @@ plotFilterValues(filterVals)+
 
 
 #####Creating a filter wrapper
-filterwrapper = ?makeFilterWrapper(learner = lin,
+filterwrapper = makeFilterWrapper(learner = lin,
                                   fw.method = "linear.correlation")
 
 
